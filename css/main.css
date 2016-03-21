@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+}
+
+.title h1{
+	font-family: 'Lobster', cursive;
+	font-size: 45px;
+}
+
+.title p{
+	margin-top: 1em;
+	font-family: 'Inconsolata';
+	font-size: 28px;
+}
+
+.instructions{
+	font-family: 'Inconsolata';
+
+}
